@@ -1,5 +1,3 @@
-package backjoon;
-
 import java.util.Scanner;
 
 public class boj2161_200112_PHJ {
