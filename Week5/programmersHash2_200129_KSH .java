@@ -1,5 +1,5 @@
 import java.util.*;
-public class programmershash2_200129_KSH {
+public class programmersHash2_200129_KSH {
     public boolean solution(String[] phone_book) {
         boolean answer = true;
         Arrays.sort(phone_book);
